@@ -1,9 +1,9 @@
 <?php
 
 class DB {
-  private $dbHost = "localhost";
+  private $dbHost = "10.0.2.169";
   private $dbUser = "root";
-  private $dbPassword = "";
+  private $dbPassword = "root";
   private $dbName = "namesdb";
   private $conn;
 
