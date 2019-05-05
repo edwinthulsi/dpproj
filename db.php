@@ -1,7 +1,7 @@
 <?php
 
 class DB {
-  private $dbHost = "10.0.2.169";
+  private $dbHost = "52.70.54.133";
   private $dbUser = "root";
   private $dbPassword = "root";
   private $dbName = "namesdb";
